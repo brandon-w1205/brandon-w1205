@@ -19,7 +19,7 @@ Here are a few of my current skills:
 - MongoDB
 - JSON Web Tokens
 
-###Check out my projects below!
+### Check out my projects below!
 <!---
 brandon-w1205/brandon-w1205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
