@@ -11,6 +11,7 @@ Here are a few of my current skills:
 - PostgreSQL
 
 ## Basic Understanding
+- Java
 - Python
 - TypeScript
 - Next.js
