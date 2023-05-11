@@ -1,10 +1,12 @@
 # Hi there!
-I'm Brandon, a General Assembly Software Engineer immersive and Cal State Fullerton graduate! From government work to personal projects, I'm always looking to learn from others and expand my knowledge. Feel free to message me with any opportunities or if you're just looking to chat about games, coffee, food, etc :)
+I'm Brandon, a junior software engineer and Cal State Fullerton graduate! From government work to personal projects, I'm always looking to learn from others and expand my knowledge. Feel free to message me with any opportunities or if you're just looking to chat about games, coffee, food, etc :)
 
 Here are a few of my current skills:
 
 ## Proficient
 - JavaScript
+- CSS (including Bootstrap, Tailwind, and Ant Design)
+- HTML
 - React.js
 - Express.js
 - Node.js
@@ -15,8 +17,6 @@ Here are a few of my current skills:
 - Python
 - TypeScript
 - Next.js
-- CSS (including Bootstrap, Tailwind, and Ant Design)
-- HTML
 - MongoDB
 - JSON Web Tokens
 
