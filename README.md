@@ -1,5 +1,5 @@
 # Hi there!
-I'm Brandon, a junior software engineer and Cal State Fullerton graduate! From government work to personal projects, I'm always looking to learn from others and expand my knowledge. Feel free to message me with any opportunities or if you're just looking to chat about games, coffee, food, etc :)
+I'm Brandon, a junior software engineer and Western Governors University Computer Science graduate! From government work to personal projects, I'm always looking to learn from others and expand my knowledge. Feel free to message me with any opportunities or if you're just looking to chat about games, coffee, food, etc :)
 
 Here are a few of my current skills:
 
